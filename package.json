@@ -1,0 +1,11 @@
+{
+  "name": "sand",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "bash init.sh && node node_modules/ghost/index"
+  },
+  "dependencies": {},
+  "license": "MIT",
+  "keywords": []
+}
