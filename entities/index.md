@@ -16,7 +16,7 @@ guhyakas,Maruts
 
 # Asura,dark yaksha,Rakshasa,Danava ,Daitya
 
-## Rakshasa
+## Rakshas
 
 Rakshasas have the power to change their shape at will and appear as animals, as monsters, or in the case of the female demons, as beautiful women. They are most powerful in the evening, particularly during the dark period of the new moon, but they are dispelled by the rising sun.
 
@@ -24,12 +24,16 @@ haunt cemeteries, eat the flesh of men, and drink the milk of cows dry as if by 
 
 the rakshasas were created by Brahma when he assumed a body of tamas (darkness), the beings springing forth and promising to protect the waters of creation.
 
+They are not created anymore, suggests that they can reproduce/convert.
+
+Maybe establish a sequence -> zombie < vampire < rakshas
+
 [protect?]
 
 -> invisible, shafe-shift
 cannibal = Yātudhāna
 
-## asuras
+## Asur
 
 the traditional opponents of the gods
 
